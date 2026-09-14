@@ -1,7 +1,7 @@
 # House_Price_Prediction
 
 A machine learning project to predict house prices using the California housing dataset, with a beautiful interactive web interface and bilingual (English/Hindi) support.
-<br>
+
 ---
 
 ## Table of Contents
